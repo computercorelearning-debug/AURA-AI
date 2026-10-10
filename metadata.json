@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI Chat",
+  "description": "The most powerful, friendly AI chatbot with smart personas, custom instructions, conversation history, and advanced Gemini models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
